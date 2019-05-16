@@ -1,6 +1,9 @@
 //MODIFICACION 1
 //Modificacion porque el ejercicio me pide que haga cambios
 
+
+//ESTO ES UNA MODIFICACION PARA LA RAMA DE PRUEBAS
+
 /*	Nombre: Persona
  *
  * 	Básicas:
@@ -90,23 +93,18 @@ public class Persona {
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
-	
 	public void setApellidos(String apellidos) {
 		this.apellidos = apellidos;
 	}
-	
 	public void setEdad(int edad) {
 		this.edad = edad;
 	}
-	
 	public void setSexo(char sexo) {
 		this.sexo = sexo;
 	}
-	
 	public void setPeso(double peso) {
 		this.peso = peso;
 	}
-	
 	public void setAltura(double altura) {
 		this.altura = altura;
 	}
