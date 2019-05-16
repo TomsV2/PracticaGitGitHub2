@@ -2,7 +2,7 @@
 //Modificacion porque el ejercicio me pide que haga cambios
 
 
-//ESTO ES UNA MODIFICACION PARA LA RAMA DE PRUEBAS
+//ESTO ES UNA MODIFICACION PA LA RAMA DE PRUEBAS
 
 /*	Nombre: Persona
  *
