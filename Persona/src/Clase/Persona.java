@@ -1,8 +1,11 @@
+//MODIFICACION 1
+//Modificacion porque el ejercicio me pide que haga cambios
+
 /*	Nombre: Persona
  *
  * 	Básicas:
- * 		- nombre    => String => Consultable y Modificable
- * 		- apellidos => String => Consultable y Modificable
+ *          - nombre    => String => Consultable y Modificable
+ *          - apellidos => String => Consultable y Modificable
  * 	    - edad      => int    => Consultable y Modificable
  * 	    - sexo      => char   => Consultable y Modificable
  * 	    - peso      => double => Consultable y Modificable
@@ -54,7 +57,6 @@ public class Persona {
 		peso = 0;
 		altura = 0;
 	}
-        
         public Persona(String nombre, String apellidos, int edad, double peso, double altura){
 		this.nombre = nombre;
 		this.apellidos = apellidos;
@@ -68,23 +70,18 @@ public class Persona {
 	public String getNombre() {
 		return nombre;
 	}
-	
 	public String getApellidos() {
 		return apellidos;
 	}
-	
 	public int getEdad() {
 		return edad;
 	}
-	
 	public char getSexo() {
 		return sexo;
 	}
-	
 	public double getPeso() {
 		return peso;
 	}
-	
 	public double getAltura() {
 		return altura;
 	}
@@ -174,3 +171,6 @@ public class Persona {
 	}
 	
 }
+
+//MODIFICACION 2
+//Modifico un par de lineas como me dice el ejercicio que haga
